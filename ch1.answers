@@ -1,0 +1,3 @@
+1. var - immutable reference, val - mutable reference
+2. make it open and visible, make all necessary fields/methods open and visible (e.g. protected), extend it using ':'
+3. extend it using extension functions
