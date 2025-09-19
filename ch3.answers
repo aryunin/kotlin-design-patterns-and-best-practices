@@ -1,0 +1,5 @@
+1. Decorator - delegates interface implementation ("by" in class declaration)
+   Proxy - delegates access to object ("by" in variable declaration)
+2. Flyweight is used to reduce memory usage by sharing common state
+3. Facade - simplifies complex interface
+   Adapter - adapt one interface to another
